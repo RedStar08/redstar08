@@ -1,6 +1,6 @@
 # 🌞 太阳当头照，红星微微笑~
 
-<span style="font-size: 60px;">🌻</span>
+<font size=20>🌻</font>
 
 #### 😍 A front-end software developer
 
@@ -8,7 +8,7 @@
 
 #### Hey, here's a gift for you!!!
 
-<span style="font-size: 40px;">🌷</span>
+<font size=20>🌷</font>
 
 <!--
 **redstar08/redstar08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
