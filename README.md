@@ -1,14 +1,14 @@
 # 🌞 太阳当头照，红星微微笑~
 
-<span style="font-size: 8rem">🌻</span>
+<span style="font-size: 60px;">🌻</span>
 
-##### 😍 A front-end software developer
+#### 😍 A front-end software developer
 
-##### 🏫 I’m currently learning ...
+#### 🏫 I’m currently learning ...
 
-##### Hey, here's a gift for you!!!
+#### Hey, here's a gift for you!!!
 
-<span style="font-size: 4rem">🌷</span>
+<span style="font-size: 40px;">🌷</span>
 
 <!--
 **redstar08/redstar08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
