@@ -1,6 +1,4 @@
-## 🌞 太阳当头照，红星微微笑~
-
-### 😍 A front-end software developer
+# 😍 A front-end software developer
 
 ## Hey, here's a gift for you --->>> 🌻
 
